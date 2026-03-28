@@ -24,6 +24,6 @@ I am a BCA student and a beginner MERN Stack Developer from India.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijaysain675-alt&show_icons=true&theme=radical&cache_seconds=30)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijaysain6736-alt&show_icons=true&theme=radical&cache_seconds=30)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=vijaysain675-alt&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=vijaysain6736-altt&theme=radical)
