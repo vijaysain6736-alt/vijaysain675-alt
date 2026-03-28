@@ -7,7 +7,7 @@ I am a BCA student and a beginner MERN Stack Developer from India.
 - 🌱 Currently Learning: MERN Stack + Machine Learning
 - 🤝 Open to beginner-friendly projects
 - 💻 Skills: HTML, CSS, JavaScript, React, Node.js, MongoDB
-- 📫 Reach me: vijaysain6736gmail@gmail.com
+- 📫 Reach me: vijaysain6736@gmail.com
 
 ---
 
